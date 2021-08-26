@@ -14,6 +14,7 @@ def end_of_lesson(n: int) -> (int, int):
     return (8, 45)
 
 
+
 if __name__ == "__main__":
     n = int(input("Номер урока: "))
 
